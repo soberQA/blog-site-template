@@ -8,7 +8,7 @@ Description: Frosty theme for portfolio and simple blogs.
 Version: 1.0.10
 License: GNU General Public License v2 or later
 License URI: LICENSE
-Text Domain: eduvibe
+Text Domain: Frosty
 Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
 
 This theme, like WordPress, is licensed under the GPL.
@@ -290,7 +290,7 @@ h6 {
     display: none
 }
 
-.blog-nav .nav-link {
+.blog-nav a {
     background: var(--primary);
     color: #fff;
     font-size: 1rem;
@@ -299,7 +299,7 @@ h6 {
     position: relative
 }
 
-.blog-nav .nav-link:hover {
+.blog-nav a:hover {
     background: var(--secondary);
 }
 
