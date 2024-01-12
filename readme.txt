@@ -13,7 +13,7 @@ A starter theme called Frosty
 
 == Description ==
 
-EduVibe Theme For Blog, Portfolio and Education Purpose.
+Frosty Theme For Blog, Portfolio and Education Purpose.
 
 == Installation ==
 
@@ -29,7 +29,7 @@ EduVibe includes support for Infinite Scroll in Jetpack.
 
 == Changelog ==
 
-= 1.0. - May 21 2021 =
+= 1.0. - jan 12 2024 =
 * Initial release
 
 == Credits ==
